@@ -15,6 +15,16 @@ This project demonstrates core concepts of authentication, validation, and secur
 💻 Clean CLI interface with OS-style UI
 🧠 How It Works
 
+🧠 Project Workflow
+
+1. User enters username and password  
+2. System validates credentials  
+3. OTP is generated for second-factor authentication  
+4. User enters OTP  
+5. System verifies OTP  
+6. Access granted or account locked after multiple failed attempts
+
+
 The authentication process follows this flow:
 
 Program starts → Displays system banner
