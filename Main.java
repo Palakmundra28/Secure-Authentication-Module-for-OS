@@ -13,6 +13,8 @@ public class Main {
     // HARDCODED CREDENTIALS (can be replaced later
     // with a database or config file)
     // ─────────────────────────────────────────────
+    // handle user authentication logic
+    
     private static final String VALID_USERNAME = "palak";
     private static final String VALID_PASSWORD = "palak@123";
     private static final String VALID_PIN      = "2807";
