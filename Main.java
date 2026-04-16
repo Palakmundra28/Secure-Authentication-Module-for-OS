@@ -139,6 +139,7 @@ public class Main {
     // PIN VERIFICATION STEP
     // Called after credentials are accepted.
     // Returns true if PIN is correct, false otherwise.
+    // Validate otp before granting access.
     // ─────────────────────────────────────────────
     private static boolean pinVerificationStep() {
         System.out.println("──────────────────────────────────────────────");
