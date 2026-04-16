@@ -4,6 +4,7 @@ A simple two-step authentication system built in Java, simulating an OS-level lo
 
 This project demonstrates core concepts of authentication, validation, and security mechanisms like account lockout after multiple failed attempts.
 
+#version 1 update
 📌 Features
 ✅ Username & Password authentication
 🔢 Second-layer PIN verification (2FA-like system)
